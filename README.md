@@ -1,8 +1,7 @@
-# React + Vite
+# Password_generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React + TailwindCSS + Vite
 
-Currently, two official plugins are available:
+This project uses hooks like, useState, useCallback, useRef, useEffect and some other functionalities to create a password generator.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
